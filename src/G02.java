@@ -22,5 +22,6 @@ public class G02 {
 
     */
         System.out.println("İşlem ekleyelim");
+        System.out.println("HEAD");
     }
 }
